@@ -43,7 +43,7 @@ Based on the Service Level Agreement between Zentel incorporated and our clients
 
 Less Than 30 Mins 	   - Excellent
 
-30Mins                - 1 hour	Good
+30Mins - 1 hour	      - Good
 
 1 hour to 3 hours	    - Fair
 

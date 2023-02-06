@@ -41,13 +41,13 @@ Based on the Service Level Agreement between Zentel incorporated and our clients
 -	Any ticket not resolved within 3 hours must be escalated to the Manager
 -	Resolution Matrix
 
-Less Than 30 Mins 	   - Excellent
+    Less Than 30 Mins 	   -  Excellent
 
-30Mins - 1 hour	      - Good
+    30Mins - 1 hour	      -  Good
 
-1 hour to 3 hours	    - Fair
+    1 hour - 3 hours	     -  Fair
 
-Greater than 3 hours  - Critical
+    Greater than 3 hours  -  Critical
 
 
 1.	Kindly provide a general outlook of the performance of the business based on relevant metrics.

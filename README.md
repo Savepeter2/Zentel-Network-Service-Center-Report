@@ -1,6 +1,9 @@
 # Zentel Network Service Report
 A Comprehensive report for Zentel network service center which provides a general outlook of the performance of the business based on relevant metrics and KPIs, and also provided insights on key factors causing the problems Zentel network service is facing. 
 
+Solution can be accessed here: 
+.[Analytical Report](https://app.powerbi.com/view?r=eyJrIjoiYjRkNGRkMWYtYTlhYS00NjYwLTgzYjAtMmZkMzZjZDEzZGFiIiwidCI6IjI4ZDQ3YTZjLWE2NmQtNDk1Ni1iYTdlLTU0MDg0Mjk0NzNmOSJ9)
+
 # About the Casestudy
 
 Network Service Performance

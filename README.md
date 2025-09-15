@@ -2,7 +2,7 @@
 A Comprehensive report for Zentel network service center which provides a general outlook of the performance of the business based on relevant metrics and KPIs, and also provided insights on key factors causing the problems Zentel network service is facing. 
 
 Solution can be accessed here: 
-[Analytical Report](https://app.powerbi.com/view?r=eyJrIjoiN2RmNDlmMGQtMTFhMS00NDJiLWJjYzItNzUwMTIyMDRkODE4IiwidCI6ImYxOGE5MWIzLTRiMzctNGJkNi1iMmEyLTAwOTE5YTk5OTIxMyJ9)
+[Analytical Report](https://app.powerbi.com/view?r=eyJrIjoiMTc5ZDZmZWEtZmRjMi00MjUzLTk1YTItY2I2ZDAxYmQ0MjNkIiwidCI6ImYxOGE5MWIzLTRiMzctNGJkNi1iMmEyLTAwOTE5YTk5OTIxMyJ9)
 
 # About the Casestudy
 
